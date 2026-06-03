@@ -1,0 +1,41 @@
+id_registro,linea,estacion,hora,dia_semana,tipo_dia,pasajeros_estimados,tiempo_espera_min,frecuencia_trenes_min,ocupacion_porcentaje
+1,A,Niquia,6,Lunes,Laboral,850,4,3,88
+2,A,Bello,7,Lunes,Laboral,920,5,3,91
+3,A,Madera,8,Lunes,Laboral,760,5,4,82
+4,A,Universidad,9,Lunes,Laboral,680,6,4,75
+5,A,San Antonio,12,Lunes,Laboral,590,6,5,68
+6,A,Poblado,17,Lunes,Laboral,870,5,3,89
+7,A,Aguacatala,18,Lunes,Laboral,940,4,3,93
+8,A,Itagui,19,Lunes,Laboral,810,5,4,85
+9,A,La Estrella,21,Lunes,Laboral,480,8,6,58
+10,B,San Javier,6,Martes,Laboral,620,6,5,72
+11,B,Estadio,7,Martes,Laboral,700,5,4,78
+12,B,Suramericana,8,Martes,Laboral,760,5,4,83
+13,B,San Antonio,12,Martes,Laboral,610,6,5,69
+14,B,Cisneros,15,Martes,Laboral,530,7,6,61
+15,B,San Javier,18,Martes,Laboral,780,5,4,84
+16,K,Acevedo,6,Miercoles,Laboral,500,7,6,63
+17,K,Andalucia,7,Miercoles,Laboral,560,7,6,68
+18,K,Popular,8,Miercoles,Laboral,590,6,5,71
+19,K,Santo Domingo,17,Miercoles,Laboral,640,6,5,76
+20,K,Acevedo,18,Miercoles,Laboral,700,5,4,82
+21,A,Niquia,10,Sabado,Sabado,430,8,7,52
+22,A,Bello,12,Sabado,Sabado,490,8,7,58
+23,A,Universidad,14,Sabado,Sabado,520,7,6,62
+24,A,Poblado,16,Sabado,Sabado,610,6,5,70
+25,A,La Estrella,20,Sabado,Sabado,390,9,8,48
+26,B,San Javier,10,Sabado,Sabado,410,8,7,50
+27,B,Estadio,13,Sabado,Sabado,470,8,7,56
+28,B,San Antonio,15,Sabado,Sabado,560,7,6,64
+29,K,Acevedo,11,Sabado,Sabado,350,9,8,45
+30,K,Santo Domingo,17,Sabado,Sabado,460,8,7,57
+31,A,Niquia,9,Domingo,Domingo,280,10,9,36
+32,A,Bello,11,Domingo,Domingo,320,10,9,40
+33,A,Universidad,13,Domingo,Domingo,360,9,8,44
+34,A,Poblado,16,Domingo,Domingo,420,8,7,51
+35,A,La Estrella,20,Domingo,Domingo,250,11,10,33
+36,B,San Javier,10,Domingo,Domingo,270,10,9,35
+37,B,Estadio,12,Domingo,Domingo,310,10,9,39
+38,B,San Antonio,15,Domingo,Domingo,390,9,8,47
+39,K,Acevedo,11,Domingo,Domingo,230,11,10,31
+40,K,Santo Domingo,17,Domingo,Domingo,340,10,9,43
