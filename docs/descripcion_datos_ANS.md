@@ -92,6 +92,3 @@ Antes de entrenar el modelo se aplicó **StandardScaler** a todas las variables 
 - Un dataset más grande y con datos reales permitiría descubrir patrones más complejos y representativos del sistema.
 
 ---
-
-*Documento generado como parte de la Actividad 4 — Métodos de Aprendizaje No Supervisado*
-*Materia: Inteligencia Artificial | Universidad Iberoamericana de Colombia*
